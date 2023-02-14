@@ -1,0 +1,8 @@
+.status-bar{
+    display: flex;
+    justifiy-content: space-between;
+}
+
+.status-bar__column:first-child span{
+    margin-right: 5px;
+}
