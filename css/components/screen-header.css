@@ -3,6 +3,9 @@
     justify-content: space-between;
     align-items: center;
     padding: var(--horizontal-space);
+    margin-bottom: 15px;
+
+  
    
 }
 
@@ -13,4 +16,16 @@
 
 .screen-header__icons span{
     margin-left: 25px;
+}
+
+
+.header__ellipsis__notification{
+    background-color: tomato;
+    width: 6px;
+    height: 6px;
+    border-radius: 3px;
+    display: flex;
+    left: 30px;
+    bottom: 28px;
+    display: block;
 }
